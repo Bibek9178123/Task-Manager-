@@ -1,0 +1,10 @@
+{
+  "short_name": "Task Manager",
+  "name": "Task Management System",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "description": "Modern Task Management System - Organize your tasks efficiently"
+}
